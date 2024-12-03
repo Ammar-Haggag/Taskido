@@ -1,9 +1,3 @@
-# Taskido
-Got it! Here's the updated LinkedIn post with the mention of the **reminder notification feature**:  
-
----
-
-🌟 **Introducing Taskidoo: Your Ultimate Task Manager!** 🌟  
 
 I’m thrilled to share an exciting project I’ve been working on — **Taskidoo**, a Python-based application designed to streamline your productivity and help you stay on top of your tasks!  
 
@@ -25,9 +19,6 @@ Let’s make work easier, one task at a time! 💪
 
 #Python #Programming #Productivity #TaskManagement #ToDoList #Reminders #Notifications #SoftwareDevelopment #TechInnovation #Innovation #WorkSmarter #Efficiency #Coding #AppDevelopment #TimeManagement #GoalSetting #Taskidoo  
 
----  
-
-Let me know if this looks good or needs more tweaking! 😊
 
 ![image](https://github.com/user-attachments/assets/8926969c-958f-43ef-8f8b-9f8b62cce776)
 
